@@ -1,2 +1,3 @@
 # topnews
-Projeto para conhecimentos práticos em programação. 
+
+Projeto para conhecimentos práticos em programação.
